@@ -34,7 +34,7 @@ namespace dev_homework06
 
             Figura triangulo = new Figura(3,3);
             Figura cuadrado = new Figura(4, 5);
-            Figura circulo = new Figura(1, 10);
+            Figura circulo = new Figura(0, 10);
 
 
            triangulo.ImprimirPerimetro();
